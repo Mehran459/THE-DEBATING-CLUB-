@@ -1,0 +1,9 @@
+{
+  "name": "the-debating-club-uaf",
+  "private": true,
+  "version": "1.0.0",
+  "description": "The Debating Club UAF website and Firebase admin dashboard",
+  "scripts": {
+    "check": "node scripts/check-project.mjs"
+  }
+}
